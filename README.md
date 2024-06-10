@@ -1,8 +1,8 @@
 # Digitial-Clock
 Digitial clock with time zoon selection and alarm function
 
-This programme is supported by NJUPT Java class teacher Mr.Deng and my teammate Miss.chen
-Also, it is submissed to teacher as a team work for our final exam.
+This programme is supported by NJUPT Java class teacher Mr.Deng and my teammate Miss.chen.
+Also, it is submitted to teacher as a team work for our final exam.
 Java Swing is used to design the interactive interface.
 
 运行程序中注意修改音频文件（用作铃声）的路径
